@@ -1,3 +1,5 @@
+This meme generator is a NEXT JS project. It is fetching meme API and you can edit it and write whatever you want.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
